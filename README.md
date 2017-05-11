@@ -1,5 +1,5 @@
 # FXPiper
-FX Steam Trading Analysis
+FX Stream Trading Analysis
 (Preliminary Stage)
 
 **Data Source: OANDA API**
